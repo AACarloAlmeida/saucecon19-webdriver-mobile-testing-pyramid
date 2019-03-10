@@ -6,3 +6,5 @@ output/
 build/
 target/
 apps/
+# DS_Store
+*.DS_Store
